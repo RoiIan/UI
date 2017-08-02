@@ -33,8 +33,26 @@
 ##General UI Principles
 
 #VSLIDE
-###Animation
-
+###Motion
+Motion shows how an app is organised and what it can do.
+#HSLIDE
+###Motion provides
+- Guided focus between views |
+- Hints at what will happen if a user completes a gesture |
+- Hierarchical and spatial relationships between elements |
+- Distraction from what’s happening behind the scenes (like fetching content or loading the next view) |
+- Character, polish, and delight |
+#HSLIDE
+###Responsive motion
+- Full of energy
+- Respond quickly to user input
+###Natural motion
+- Take inspiration from real world
+- For example when you press a button it moves in
+- In the real world objects smoothly speed up/down
+###Consistent movement
+- If a new element slides if from the left, it should be removed by sliding it out to the right
+- If you do the above for one element it should be consistent around the site
 
 #VSLIDE
 ###Colour
@@ -43,21 +61,23 @@
 - Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
 - Different from background = important, attracts attention
 #VSLIDE
-What does a colour mean? 
+###What does a colour mean? 
 - <span style="color:red">Red</span> = warning
 - <span style="color:green">Green</span> = safe
 - <span style="color:blue">Blue</span> = neutral, trust
 - <span style="color:yellow">Yellow</span> = less severe version of red
 #VSLIDE
-But this changes depending on the overall interface colour
+But this changes depending on the overall interface colour.
+
 Consistent hues are very typical: eg facebook, twitch, etc. Keeps an interface easy to use over periods of time
 For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 
 #VSLIDE
 ###Consistency
-- Consistency builds trust
+- Consistency builds trust |
 - Inconsistency builds mistrust and feels unprofessional |
 - Consistency makes learning easier |
+- Reduce errors. For example if you swap cancel and confirm buttons in one place you can cause CHAOS|
 
 #VSLIDE
 ###Size
@@ -90,20 +110,10 @@ If you can't fit it on the screen and it's still important enough to be on there
 - Click > progress bar > 3 min wait while it finishes > response = responsive but slow
 
 #VSLIDE
-###Workflow
-Ensure the user knows where they are in a process. 
-Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
-
-#VSLIDE
-###Cognitive workload
-how much mental work it is to navigate/interact with a UI. Ideal is none.
-As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
-
-#VSLIDE
 ###Accessibility
-What if you were colour-blind?
-What if you can't use a mouse?
-We are required by law to make *'reasonable adjustments'* to provide disabled access to our software! https://www.out-law.com/page-330
+- What if you were colour-blind?
+- What if you can't use a mouse?
+- We are required by law to make *'reasonable adjustments'* to provide disabled access to our software! https://www.out-law.com/page-330
 
 #VSLIDE
 ###HOWEVER
@@ -124,7 +134,18 @@ Programmers, like some other types of users, are generally happier with complex 
 - The sequence of actions they take as they interact the interface
 - The thoughts and feelings that arise as they try to accomplish their task
 - The impressions they take away from the interaction as a whole
+#VSLIDE
+###Workflow
+Ensure the user knows where they are in a process. 
+Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
 
+#VSLIDE
+###Cognitive workload
+How much mental work it is to navigate/interact with a UI. Ideal is none.
+As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
+#VSLIDE
+## UX is difficult to expain 
+- Look how much we have on UI vs UX in this presentation
 
 #HSLIDE
 ##Rough process:
