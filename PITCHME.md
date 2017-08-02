@@ -37,7 +37,9 @@ For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
 #VSLIDE
 ###Size
-Simple: large things are important, smaller things less so
+Simple: 
+- <span style="font-size:40px">Large things are important</span>
+- <span style="font-size:20px">Smaller things less so</span>
 #VSLIDE
 ###Density
 Each addition to the UI decreases the relative importance of everything else on the UI
@@ -72,11 +74,11 @@ We are required by law to make 'reasonable adjustments' to provide disabled acce
 Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. Programmers, like some other types of users, are generally happier with complex screens with high information density.
 #HSLIDE
 ##Rough process:
-1 Get the requirements
-2 Translate the requirements by expressing the user's workflow in some way (eg flow chart, user stories)
-3 Ensure that is correct by involving the users to some extent
-4 What needs to be on the screen? What is more or less important? Think about position & size
-5 Build simple mockups and wireframes, and screen flow diagrams. Working on paper or software (eg pencil) doesn't matter
-6 Check with users. Repeat this and previous step until we have the optimal solution
-7 Think about colour, responsiveness
-8 Begin build
+1. Get the requirements
+2. Translate the requirements by expressing the user's workflow in some way (eg flow chart, user stories)
+3. Ensure that is correct by involving the users to some extent
+4. What needs to be on the screen? What is more or less important? Think about position & size
+5. Build simple mockups and wireframes, and screen flow diagrams. Working on paper or software (eg pencil) doesn't matter
+6. Check with users. Repeat this and previous step until we have the optimal solution
+7. Think about colour, responsiveness
+8. Begin build
