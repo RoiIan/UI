@@ -150,15 +150,15 @@ As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
 
 #HSLIDE
 ##Rough process:
-1. Get the requirements 
-2. Translate the requirements by expressing the user's workflow in some way (eg flow chart, user stories) 
-3. Ensure that is correct by involving the users to some extent 
+- Get the requirements 
+- Translate the requirements by expressing the user's workflow in some way (eg flow chart, user stories) 
+- Ensure that is correct by involving the users to some extent 
 #VSLIDE
 ##Rough process:
-4. What needs to be on the screen? What is more or less important? Think about position & size 
-5. Build simple mockups and wireframes, and screen flow diagrams. Working on paper or software (eg pencil) doesn't matter 
-6. Check with users. Repeat this and previous step until we have the optimal solution 
+- What needs to be on the screen? What is more or less important? Think about position & size 
+- Build simple mockups and wireframes, and screen flow diagrams. Working on paper or software (eg pencil) doesn't matter 
+- Check with users. Repeat this and previous step until we have the optimal solution 
 #VSLIDE
 ##Rough process:
-7. Think about colour, responsiveness 
-8. Begin build 
+- Think about colour, responsiveness 
+- Begin build 
