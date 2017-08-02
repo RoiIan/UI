@@ -35,7 +35,7 @@
 #VSLIDE
 ###Motion
 Motion shows how an app is organised and what it can do.
-VSLIDE
+#VSLIDE
 ###Motion provides
 - Guided focus between views |
 - Hints at what will happen if a user completes a gesture |
