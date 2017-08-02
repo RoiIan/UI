@@ -38,8 +38,8 @@ Consistency builds trust, inconsistency builds mistrust and feels unprofessional
 #VSLIDE
 ###Size
 Simple: 
-- <span style="font-size:40px">Large things are important</span>
-- <span style="font-size:20px">Smaller things less so</span>
+<span style="font-size:60px">Large things are important</span>
+<span style="font-size:20px">Smaller things less so</span>
 #VSLIDE
 ###Density
 Each addition to the UI decreases the relative importance of everything else on the UI
