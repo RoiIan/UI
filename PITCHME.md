@@ -19,49 +19,56 @@
 - Observing the site's real-world use |
 #HSLIDE
 ##General UI Principles
-#VSLIDE
+
+#HSLIDE
 ###Colour
-Colour contrast costs mental energy to process -> lots of contrasting colours looks chaotic and will make it hard to use/understand
+- Colour contrast costs mental energy to process -> lots of contrasting colours looks chaotic and will make it hard to use/understand
 Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
 Different from background = important, attracts attention
 What does a colour mean? Typically:
-- Red = warning
-- Green = safe
-- Blue = neutral, trust
-- Yellow = less severe version of red
+- <span style="font-color:red">Red</span> = warning
+- <span style="font-color:green">Green</span> = safe
+- <span style="font-color:blue">Blue</span> = neutral, trust
+- <span style="font-color:yellow">Yellow</span> = less severe version of red
 But this changes depending on the overall interface colour
 Consistent hues are very typical: eg facebook, twitch, etc. Keeps an interface easy to use over periods of time
 For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
-#VSLIDE
+
+#HSLIDE
 ###Consistency
 Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
 #VSLIDE
 ###Size
 Simple:
- 
+
 <span style="font-size:60px">Large things are important</span>
 
 <span style="font-size:20px">Smaller things less so</span>
-#VSLIDE
+
+#HSLIDE
 ###Density
 Each addition to the UI decreases the relative importance of everything else on the UI
 Each addition also gives the user less time to understand the other features
 The optimal interface has the minimum things on the screen at one time
-#VSLIDE
+
+#HSLIDE
 ###Position
 Centre = important
 Periphery = less important
-#VSLIDE
+
+#HSLIDE
 ###Offscreen
 Moving something offscreen is like a more pronounced version of putting it on the periphery in terms of importance.
 Things should only be offscreen if they are only situationally useful, but can normally be ignored.
 Anything that is needed regularly should be on the screen all the time.
 If you can't fit it on the screen and it's still important enough to be on there, your interface is too cluttered and the design must be simplified.
-#VSLIDE
+
+#HSLIDE
 ###Responsive UI vs Reponse time
 Click > wait 3 mins > response = not response, slow response time
 Click > progress bar > 3 min wait while it finishes > response = responsive but slow
-#VSLIDE
+
+#HSLIDE
 ###Workflow
 Ensure the user knows where they are in a process. Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
 Cognitive workload = how much mental work it is to navigate/interact with a UI. Ideal is none.
@@ -71,9 +78,10 @@ As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
 What if you were colour-blind?
 What if you can't use a mouse?
 We are required by law to make 'reasonable adjustments' to provide disabled access to our software! https://www.out-law.com/page-330
-#VSLIDE
+#HSLIDE
 ###HOWEVER
 Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. Programmers, like some other types of users, are generally happier with complex screens with high information density.
+
 #HSLIDE
 ##Rough process:
 1. Get the requirements
