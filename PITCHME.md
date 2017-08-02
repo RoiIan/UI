@@ -1,4 +1,5 @@
-#User Interface
+#UI AND UX
+"UX is focused on the user’s journey to solve a problem, UI is focused on how a product’s surfaces look and function"
 #HSLIDE
 ##Apparent Strengths / Weaknesses
 #VSLIDE
@@ -18,17 +19,23 @@
 - Using analytics to understand existing sites |
 - Observing the site's real-world use |
 #HSLIDE
-##UI vs UX
+##UI <span style="font-size:40px">vs</span> UX
 - **User Interface (UI)** the series of screens, pages and visual elements
 - **User Experience (UX)** the internal experience that a person has as they interact with every aspect of a company’s products and services.
+##Why is UI/UX important
+- Reduce errors
+- Reduce time taken on tasks
+- Easier to sell
+- Retain customers
+
 #HSLIDE
-##General <span style="font-size:30px">UI</span> Principles
+##General UI Principles
 
 #HSLIDE
 ###Animation
 
 
-#VSLIDE
+#HSLIDE
 ###Colour
 - Colour contrast costs mental energy to process -> lots of contrasting colours looks chaotic and will make it hard to use/understand
 Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
@@ -45,7 +52,9 @@ For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 
 #HSLIDE
 ###Consistency
-Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
+- Consistency builds trust
+- Inconsistency builds mistrust and feels unprofessional |
+- Consistency makes learning easier |
 
 #HSLIDE
 ###Size
@@ -82,7 +91,8 @@ Click > progress bar > 3 min wait while it finishes > response = responsive but 
 Ensure the user knows where they are in a process. Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
 Cognitive workload = how much mental work it is to navigate/interact with a UI. Ideal is none.
 As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
-#VSLIDE
+
+#HSLIDE
 ###Accessibility
 What if you were colour-blind?
 What if you can't use a mouse?
@@ -94,6 +104,17 @@ Always consider the user. Look at VS when you're debugging. you have: the code, 
 
 #HSLIDE
 ##General UX Principles
+#VSLIDE
+- Must meet the needs of the user
+- Simplicity and elegance "A joy to own, a joy to use"
+#VSLIDE
+"True user experience goes far beyond giving customers what they say they want, or providing checklist features. In order to achieve high-quality user experience in a company’s offerings there must be a seamless merging of the services of multiple disciplines, including engineering, marketing, graphical and industrial design, and interface design."
+#VSLIDE
+- The process they go through to discover your company’s product
+- The sequence of actions they take as they interact the interface
+- The thoughts and feelings that arise as they try to accomplish their task
+- The impressions they take away from the interaction as a whole
+
 
 #HSLIDE
 ##Rough process:
