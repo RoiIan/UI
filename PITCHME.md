@@ -12,17 +12,17 @@
 ###What we're bad at:
 - Making low-effort mock ups and wireframes of the solution
 - Mapping out the whole workflow before it is built |
-- Larger scale testing before release?? |
+- Larger scale testing before release |
 - Designing with accessibility in mind |
 - Entering the design process with a set of requirements |
 - Using analytics to understand existing sites |
 - Observing the site's real-world use |
 #HSLIDE
 ##UI vs UX
-- User Interface (UI) the series of screens, pages and visual elements
-- User Experience (UX) the internal experience that a person has as they interact with every aspect of a company’s products and services.
+- **User Interface (UI)** the series of screens, pages and visual elements
+- **User Experience (UX)** the internal experience that a person has as they interact with every aspect of a company’s products and services.
 #HSLIDE
-##General UI Principles
+##General <span style="font-size:30px">UI</span> Principles
 
 #HSLIDE
 ###Animation
