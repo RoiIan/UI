@@ -1,5 +1,5 @@
 #UI AND UX
-"UX is focused on the user’s journey to solve a problem, UI is focused on how a product’s surfaces look and function"
+*"UX is focused on the user’s journey to solve a problem, UI is focused on how a product’s surfaces look and function"*
 #HSLIDE
 ##Apparent Strengths / Weaknesses
 #VSLIDE
