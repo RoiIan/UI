@@ -37,8 +37,10 @@ For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
 #VSLIDE
 ###Size
-Simple: 
+Simple:
+ 
 <span style="font-size:60px">Large things are important</span>
+
 <span style="font-size:20px">Smaller things less so</span>
 #VSLIDE
 ###Density
