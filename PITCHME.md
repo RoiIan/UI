@@ -35,21 +35,23 @@
 #VSLIDE
 ###Motion
 Motion shows how an app is organised and what it can do.
-#HSLIDE
+VSLIDE
 ###Motion provides
 - Guided focus between views |
 - Hints at what will happen if a user completes a gesture |
 - Hierarchical and spatial relationships between elements |
 - Distraction from what’s happening behind the scenes (like fetching content or loading the next view) |
 - Character, polish, and delight |
-#HSLIDE
+#VSLIDE
 ###Responsive motion
 - Full of energy
 - Respond quickly to user input
+#VSLIDE
 ###Natural motion
 - Take inspiration from real world
 - For example when you press a button it moves in
 - In the real world objects smoothly speed up/down
+#VSLIDE
 ###Consistent movement
 - If a new element slides if from the left, it should be removed by sliding it out to the right
 - If you do the above for one element it should be consistent around the site
