@@ -26,10 +26,10 @@
 Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
 Different from background = important, attracts attention
 What does a colour mean? Typically:
-- <span style="font-color:red">Red</span> = warning
-- <span style="font-color:green">Green</span> = safe
-- <span style="font-color:blue">Blue</span> = neutral, trust
-- <span style="font-color:yellow">Yellow</span> = less severe version of red
+- <span style="color:red">Red</span> = warning
+- <span style="color:green">Green</span> = safe
+- <span style="color:blue">Blue</span> = neutral, trust
+- <span style="color:yellow">Yellow</span> = less severe version of red
 But this changes depending on the overall interface colour
 Consistent hues are very typical: eg facebook, twitch, etc. Keeps an interface easy to use over periods of time
 For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
@@ -39,7 +39,6 @@ For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
 #VSLIDE
 ###Size
-Simple:
 
 <span style="font-size:60px">Large things are important</span>
 
@@ -78,6 +77,7 @@ As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
 What if you were colour-blind?
 What if you can't use a mouse?
 We are required by law to make 'reasonable adjustments' to provide disabled access to our software! https://www.out-law.com/page-330
+
 #HSLIDE
 ###HOWEVER
 Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. Programmers, like some other types of users, are generally happier with complex screens with high information density.
