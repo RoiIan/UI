@@ -18,13 +18,22 @@
 - Using analytics to understand existing sites |
 - Observing the site's real-world use |
 #HSLIDE
+##UI vs UX
+- User Interface (UI) the series of screens, pages and visual elements
+- User Experience (UX) the internal experience that a person has as they interact with every aspect of a company’s products and services.
+#HSLIDE
 ##General UI Principles
 
 #HSLIDE
+###Animation
+
+
+#VSLIDE
 ###Colour
 - Colour contrast costs mental energy to process -> lots of contrasting colours looks chaotic and will make it hard to use/understand
 Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
 Different from background = important, attracts attention
+#VSLIDE
 What does a colour mean? Typically:
 - <span style="color:red">Red</span> = warning
 - <span style="color:green">Green</span> = safe
@@ -37,7 +46,8 @@ For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
 #HSLIDE
 ###Consistency
 Consistency builds trust, inconsistency builds mistrust and feels unprofessional.
-#VSLIDE
+
+#HSLIDE
 ###Size
 
 <span style="font-size:60px">Large things are important</span>
@@ -81,6 +91,9 @@ We are required by law to make 'reasonable adjustments' to provide disabled acce
 #HSLIDE
 ###HOWEVER
 Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. Programmers, like some other types of users, are generally happier with complex screens with high information density.
+
+#HSLIDE
+##General UX Principles
 
 #HSLIDE
 ##Rough process:
