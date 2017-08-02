@@ -18,15 +18,16 @@
 - Entering the design process with a set of requirements |
 - Using analytics to understand existing sites |
 - Observing the site's real-world use |
-#HSLIDE
+#VSLIDE
 ##UI <span style="font-size:40px">vs</span> UX
 - **User Interface (UI)** the series of screens, pages and visual elements
 - **User Experience (UX)** the internal experience that a person has as they interact with every aspect of a company’s products and services.
+#VSLIDE
 ##Why is UI/UX important
-- Reduce errors
-- Reduce time taken on tasks
-- Easier to sell
-- Retain customers
+- Reduce errors |
+- Reduce time taken on tasks |
+- Easier to sell |
+- Retain customers |
 
 #HSLIDE
 ##General UI Principles
