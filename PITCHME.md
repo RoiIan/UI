@@ -23,7 +23,7 @@
 - **User Interface (UI)** the series of screens, pages and visual elements
 - **User Experience (UX)** the internal experience that a person has as they interact with every aspect of a company’s products and services.
 #VSLIDE
-##Why is UI/UX important |
+##Why is UI/UX important
 - Reduce errors |
 - Reduce time taken on tasks |
 - Easier to sell |
@@ -38,15 +38,17 @@
 
 #VSLIDE
 ###Colour
-- Colour contrast costs mental energy to process -> lots of contrasting colours looks chaotic and will make it hard to use/understand
-Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
-Different from background = important, attracts attention
+- Colour contrast costs mental energy to process 
+- Lots of contrasting colours looks chaotic and will make it hard to use/understand
+- Similar to background = unimportant, can be ignored, maybe even locked/disabled (the extreme example is a greyed out button)
+- Different from background = important, attracts attention
 #VSLIDE
-What does a colour mean? Typically:
+What does a colour mean? 
 - <span style="color:red">Red</span> = warning
 - <span style="color:green">Green</span> = safe
 - <span style="color:blue">Blue</span> = neutral, trust
 - <span style="color:yellow">Yellow</span> = less severe version of red
+#VSLIDE
 But this changes depending on the overall interface colour
 Consistent hues are very typical: eg facebook, twitch, etc. Keeps an interface easy to use over periods of time
 For overall feel, Black = edgy, white = simple, blue = neutral, trust, etc etc
@@ -72,8 +74,8 @@ The optimal interface has the minimum things on the screen at one time
 
 #VSLIDE
 ###Position
-Centre = important
-Periphery = less important
+- Centre = important
+- Periphery = less important
 
 #VSLIDE
 ###Offscreen
@@ -84,33 +86,40 @@ If you can't fit it on the screen and it's still important enough to be on there
 
 #VSLIDE
 ###Responsive UI vs Reponse time
-Click > wait 3 mins > response = not response, slow response time
-Click > progress bar > 3 min wait while it finishes > response = responsive but slow
+- Click > wait 3 mins > response = not response, slow response time
+- Click > progress bar > 3 min wait while it finishes > response = responsive but slow
 
 #VSLIDE
 ###Workflow
-Ensure the user knows where they are in a process. Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
-Cognitive workload = how much mental work it is to navigate/interact with a UI. Ideal is none.
+Ensure the user knows where they are in a process. 
+Next > next > next > next > finish is frustrating from step 2 onwards if you dont know how many more clicks you have.
+
+#VSLIDE
+###Cognitive workload
+how much mental work it is to navigate/interact with a UI. Ideal is none.
 As above, signal to noise ratio. Stuff that is irrelevant stays off screen.
 
 #VSLIDE
 ###Accessibility
 What if you were colour-blind?
 What if you can't use a mouse?
-We are required by law to make 'reasonable adjustments' to provide disabled access to our software! https://www.out-law.com/page-330
+We are required by law to make *'reasonable adjustments'* to provide disabled access to our software! https://www.out-law.com/page-330
 
 #VSLIDE
 ###HOWEVER
-Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. Programmers, like some other types of users, are generally happier with complex screens with high information density.
+Always consider the user. Look at VS when you're debugging. you have: the code, the call stack, the variable, maybe threads etc etc. 
+
+Programmers, like some other types of users, are generally happier with complex screens with high information density.
 
 #HSLIDE
 ##General UX Principles
 #VSLIDE
-- Must meet the needs of the user
-- Simplicity and elegance "A joy to own, a joy to use"
+- Must meet the needs of the user |
+- Simplicity and elegance "A joy to own, a joy to use" |
 #VSLIDE
 "True user experience goes far beyond giving customers what they say they want, or providing checklist features. In order to achieve high-quality user experience in a company’s offerings there must be a seamless merging of the services of multiple disciplines, including engineering, marketing, graphical and industrial design, and interface design."
 #VSLIDE
+## Key UX Elements
 - The process they go through to discover your company’s product
 - The sequence of actions they take as they interact the interface
 - The thoughts and feelings that arise as they try to accomplish their task
@@ -122,8 +131,12 @@ Always consider the user. Look at VS when you're debugging. you have: the code, 
 1. Get the requirements |
 2. Translate the requirements by expressing the user's workflow in some way (eg flow chart, user stories) |
 3. Ensure that is correct by involving the users to some extent |
+#HSLIDE
+##Rough process:
 4. What needs to be on the screen? What is more or less important? Think about position & size |
 5. Build simple mockups and wireframes, and screen flow diagrams. Working on paper or software (eg pencil) doesn't matter |
 6. Check with users. Repeat this and previous step until we have the optimal solution |
+#HSLIDE
+##Rough process:
 7. Think about colour, responsiveness |
 8. Begin build |
